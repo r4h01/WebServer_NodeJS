@@ -1,4 +1,4 @@
-// utte le applicazioni Node.js sono basate su un meccanismo di eventi, 
+// tutte le applicazioni Node.js sono basate su un meccanismo di eventi, 
 // che determina quale funzione sarà successivamente chiamata.
 // Con il metodo on(), è possibile riprodurre un evento e 
 // dire quale funzione deve essere richiamata al verificarsi dell’evento.
